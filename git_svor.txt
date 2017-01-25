@@ -2,7 +2,12 @@
 
 1. Hvað gera eftirfarandi Linux skipanir?
 	cd
+change directory
 	cd ~
+fer í user folder
 	ls
+ls sýnir lista um allar möppur og fila í directoryinu
 	pwd
+prints working directory
 	mkdir
+makes a directory
