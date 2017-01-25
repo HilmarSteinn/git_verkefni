@@ -23,3 +23,11 @@ sýnir status verkefnis
 git-diff - Show changes between commits, commit and working tree
 	git checkout
 git-checkout - Switch branches or restore working tree files
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+git diff shows changes between commits, commit and working tree
+	b) git diff --staged 
+git staged er synonim fyrir --cached and shows changes that have been staged
+	c) git diff commit1 commit2
+
