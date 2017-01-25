@@ -11,3 +11,15 @@ ls sýnir lista um allar möppur og fila í directoryinu
 prints working directory
 	mkdir
 makes a directory
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone
+clonar file eða folder
+	git log
+sýnir log um commands sem hafa verið notaðar
+	git status
+sýnir status verkefnis
+	git diff
+git-diff - Show changes between commits, commit and working tree
+	git checkout
+git-checkout - Switch branches or restore working tree files
